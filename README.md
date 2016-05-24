@@ -1,5 +1,8 @@
-# gocks
+gocks
+=====
+
 Small single-destination golang SOCKS5 proxy using github.com/armon/go-socks5
+It is very dirty and not safe, for example it requires passwords in the command line, use at your own risk
 
 Usage
 =====
